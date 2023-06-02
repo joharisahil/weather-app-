@@ -1,10 +1,12 @@
 # Weather Application 
 
+Problem Occured -> for using seven days broadcast api we need to take a permission from openweathermap api's  to verify API_KEY  that will take some time thats why i am unable to implement the seen days broadcast api for now.
+
 This is a weather application using -> openweathermap apis 
 The State Management used by this project is Getx.
 
-# This app shows us a current location weather as well as a for a searched location weather also it has dark mode feature.
-# You can run the app by simpling going to your terminal and run the command flutter run![WhatsApp Image 2023-06-02 at 18 50 15]
+This app shows us a current location weather as well as a for a searched location weather also it has dark mode feature.
+You can run the app by simpling going to your terminal and run the command flutter run![WhatsApp Image 2023-06-02 at 18 50 15]
 
 # Below i have attached some screenshots of app/
 
